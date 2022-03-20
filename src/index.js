@@ -1,0 +1,1 @@
+import "./components/SolarSystem.js";

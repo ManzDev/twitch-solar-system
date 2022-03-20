@@ -1,0 +1,14 @@
+body {
+  background: #113;
+  background-image: url("stars.webp");
+  background-blend-mode: color;
+  background-blend-mode: exclusion;
+  margin: 0;
+  overflow: hidden;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 11em;
+}
